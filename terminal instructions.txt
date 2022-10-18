@@ -1,0 +1,11 @@
+NODE.JS
+    node -v: node version (good to check if you have node installed)
+    node app.js: launch the app.js file
+
+    npm init -y: create a package.json file
+
+ESPRESS.JS
+    npm i express: add express library
+
+EJS
+    npm i ejs: install view engine

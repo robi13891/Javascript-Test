@@ -11,7 +11,7 @@ const fs = require("fs"); //library that help render html on browser
 const server = http.createServer(function(req, res){
     //what server does on the browser
     res.writeHead(200, { "Content-Type": "text/html" });
-    fs.readFile("index.html", function(error, data){
+    fs.readFile("views/index.html", function(error, data){
         if (error) {
             res.writeHead(404);
             res.write("Error: File Not Found!");

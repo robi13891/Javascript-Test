@@ -1,5 +1,5 @@
-//BUILD A LOCAL SERVER
-
+//SET UP A LOCAL WEB SERVER
+//source: https://www.youtube.com/watch?v=VShtPwEkDD0
 const http = require("http"); //import the http library inside the http variable 
 const port = 3000; //this is a variable that contains the server's port that will listen
 const fs = require("fs"); //library that help render html on browser

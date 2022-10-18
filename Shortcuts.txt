@@ -1,0 +1,5 @@
+VS CODE
+! + Enter: create the basic html structure
+
+BROWSER 
+ctrl + shift + I: developer tools

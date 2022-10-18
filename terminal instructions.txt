@@ -9,3 +9,9 @@ ESPRESS.JS
 
 EJS
     npm i ejs: install view engine
+
+GIT
+    git add.
+    git commit -m "add comment here"
+    git push -u origin main
+
